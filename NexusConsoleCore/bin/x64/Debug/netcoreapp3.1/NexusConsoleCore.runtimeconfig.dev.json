@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vsdiagtester\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vsdiagtester\\.nuget\\packages"
+    ]
+  }
+}

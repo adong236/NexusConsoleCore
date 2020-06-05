@@ -1,0 +1,12 @@
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\bin\x64\Debug\netcoreapp3.1\NexusConsoleCore.exe
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\bin\x64\Debug\netcoreapp3.1\NexusConsoleCore.deps.json
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\bin\x64\Debug\netcoreapp3.1\NexusConsoleCore.runtimeconfig.json
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\bin\x64\Debug\netcoreapp3.1\NexusConsoleCore.runtimeconfig.dev.json
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\bin\x64\Debug\netcoreapp3.1\NexusConsoleCore.dll
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\bin\x64\Debug\netcoreapp3.1\NexusConsoleCore.pdb
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\obj\x64\Debug\netcoreapp3.1\NexusConsoleCore.AssemblyInfoInputs.cache
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\obj\x64\Debug\netcoreapp3.1\NexusConsoleCore.AssemblyInfo.cs
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\obj\x64\Debug\netcoreapp3.1\NexusConsoleCore.csproj.CoreCompileInputs.cache
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\obj\x64\Debug\netcoreapp3.1\NexusConsoleCore.dll
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\obj\x64\Debug\netcoreapp3.1\NexusConsoleCore.pdb
+C:\Users\vsdiagtester\source\repos\NexusConsoleCore\NexusConsoleCore\obj\x64\Debug\netcoreapp3.1\NexusConsoleCore.genruntimeconfig.cache
